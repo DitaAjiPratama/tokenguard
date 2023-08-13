@@ -24,6 +24,7 @@ and here is for decode
 
     import tokenguard
 
+    token       = "xxxxxx.xxxxxx.xxxxxx"
     public_key  = "your_ssh_dir/id_rsa.pub"
 
-    payload     = tokenguard.decode(your_token, public_key)
+    payload     = tokenguard.decode(token, public_key)
