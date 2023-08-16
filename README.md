@@ -2,7 +2,7 @@
 
 Python Script for authentication with JWT method and RS256 algorithm.
 
-It need pyjwt[crypto] python library.
+It need `pyjwt[crypto]` python library.
 
 ## Usage
 
